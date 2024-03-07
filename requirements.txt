@@ -3,7 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-pickle
+streamlit
 nltk
-wordcloud
-collections
