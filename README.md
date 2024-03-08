@@ -7,7 +7,7 @@
     </p>
     <h2>Instructions:</h2>
     <ul>
-        <li>CLone this repository.</li>
+        <li>Clone this repository.</li>
         <li>Create a virtual environment and install the requiremts.txt file</li>
         <li>Run the app.py file using the following command: streammlit run app.py</li>
         <li>When the app runs on the browser, enter the message and click on 'Show Result'.</li>
