@@ -3,7 +3,8 @@
     <h2>Description:</h2>
     <p>
         Built a python script that allows you to classify email messages as spam or not spam based on their content. In the 
-        .ipynb file three types of Naive Bayes Classifier has been performe i.e. Gaussian, Multinomial, and Bernoulli, then based on the accuracy score and precsion score the best performing algorithm has been used to built a streamlit app. 
+        .ipynb file three types of Naive Bayes Classifier has been performe i.e. Gaussian, Multinomial, and Bernoulli, then based on the accuracy score and precsion score the best performing algorithm has been used to built a streamlit app. <br><br>
+        <b>The dataset is available at: <b> <a href="https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data"> kaggle.com/datasets/uciml/sms-spam-collection-dataset/data</a>
     </p>
     <h2>Instructions:</h2>
     <ul>
