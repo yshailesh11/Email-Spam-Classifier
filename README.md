@@ -9,7 +9,7 @@
     <ul>
         <li>Clone this repository.</li>
         <li>Create a virtual environment and install the requiremts.txt file.</li>
-        <li>Run the app.py file using the following command: streammlit run app.py.</li>
+        <li>Run the app.py file using the following command: streamlit run app.py.</li>
         <li>When the app runs on the browser, enter the message and click on 'Show Result'.</li>
         <li>Use the app to identify the spam messages/emails.</li>
     </ul>
